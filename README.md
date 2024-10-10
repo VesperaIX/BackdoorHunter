@@ -1,4 +1,6 @@
-<img src=x "https://raw.githubusercontent.com/VesperaIX/BackdoorHunter/refs/heads/main/hi.png" align="center">
+<div align="center">
+<img src=x "https://raw.githubusercontent.com/VesperaIX/BackdoorHunter/refs/heads/main/hi.png">
+</div>
 
 # Backdoor Hunter v1.0
 
