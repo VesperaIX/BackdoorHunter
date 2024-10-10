@@ -37,6 +37,6 @@ Pola-pola backdoor yang digunakan untuk pemindaian disimpan dalam file `wordlist
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat fork dari repositori ini dan ajukan pull request dengan perubahan Anda.
 
-## Lisensi
+## Regars
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+VesperaIX
