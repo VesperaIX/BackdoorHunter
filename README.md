@@ -1,8 +1,8 @@
+# Backdoor Hunter v1.0
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/VesperaIX/BackdoorHunter/refs/heads/main/hi.png">
 </div>
-
-# Backdoor Hunter v1.0
 
 Backdoor Hunter adalah alat pemindaian keamanan yang dirancang untuk mencari dan mendeteksi file backdoor yang tersembunyi di dalam direktori website. Alat ini juga dapat memindai metadata dari file gambar, video, dan GIF untuk mendeteksi adanya kode shell yang disisipkan.
 
@@ -35,10 +35,6 @@ Alat ini akan memindai direktori dan melaporkan setiap file yang terdeteksi memi
 ## Wordlist
 
 Pola-pola backdoor yang digunakan untuk pemindaian disimpan dalam file `wordlist.txt` dan `judol.txt`. Anda dapat menambahkan atau mengedit pola-pola tersebut sesuai kebutuhan.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan buat fork dari repositori ini dan ajukan pull request dengan perubahan Anda.
 
 ## Regars
 
