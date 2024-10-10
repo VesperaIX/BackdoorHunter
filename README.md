@@ -11,7 +11,7 @@ Backdoor Hunter adalah alat pemindaian keamanan yang dirancang untuk mencari dan
 - **Pemindaian Direktori**: Memindai semua file di direktori tempat alat ini dijalankan.
 - **Deteksi Backdoor**: Mencocokkan konten file dengan pola-pola backdoor yang telah ditentukan.
 - **Pemindaian Metadata**: Menggunakan `pyexiftool` untuk memindai metadata dari file gambar, video, dan GIF.
-- **Pengabaian File**: Secara otomatis mengabaikan file `wordlist.txt` dan `hunt.py` selama pemindaian.
+- **Pengabaian File**: Secara otomatis mengabaikan file `wordlist.txt`  `judol.txt` dan `hunt.py` selama pemindaian.
 - **Laporan Deteksi**: Menampilkan hasil deteksi dengan format yang mudah dibaca, termasuk memberi warna pada pesan deteksi.
 
 ## Instalasi
@@ -34,7 +34,7 @@ Alat ini akan memindai direktori dan melaporkan setiap file yang terdeteksi memi
 
 ## Wordlist
 
-Pola-pola backdoor yang digunakan untuk pemindaian disimpan dalam file `wordlist.txt`. Anda dapat menambahkan atau mengedit pola-pola tersebut sesuai kebutuhan.
+Pola-pola backdoor yang digunakan untuk pemindaian disimpan dalam file `wordlist.txt` dan `judol.txt`. Anda dapat menambahkan atau mengedit pola-pola tersebut sesuai kebutuhan.
 
 ## Kontribusi
 
