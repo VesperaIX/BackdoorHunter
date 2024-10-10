@@ -1,5 +1,5 @@
 <div align="center">
-<img src=x "https://raw.githubusercontent.com/VesperaIX/BackdoorHunter/refs/heads/main/hi.png">
+<img src="https://raw.githubusercontent.com/VesperaIX/BackdoorHunter/refs/heads/main/hi.png">
 </div>
 
 # Backdoor Hunter v1.0
