@@ -36,6 +36,6 @@ Alat ini akan memindai direktori dan melaporkan setiap file yang terdeteksi memi
 
 Pola-pola backdoor yang digunakan untuk pemindaian disimpan dalam file `wordlist.txt` dan `judol.txt`. Anda dapat menambahkan atau mengedit pola-pola tersebut sesuai kebutuhan.
 
-## Regars
+## Regards
 
 VesperaIX
